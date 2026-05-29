@@ -1,0 +1,23 @@
+let age;
+let _score;
+let $total;
+console.log(age);
+console.log(_score);
+console.log($total);
+console.log(typeof(age));
+console.log(typeof(_score));
+console.log(typeof($total));
+age = 25;
+let Age = 30;
+console.log(age);
+console.log(Age);
+let firstName = "Mouuryaditya";
+console.log(firstName);
+const pi= 3.14;
+console.log(pi);
+/*pi=22.45;
+console.log(pi);*/
+var date = 2026-4-20;
+console.log(date);
+var date = 2026%4;
+console.log(date);
