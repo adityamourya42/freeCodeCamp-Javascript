@@ -1,0 +1,12 @@
+const wholeNumber = 50;
+const decimalNumber = 4.5;
+const negativeNumber = -7;
+const negativeDecimalNumber = -35.75;
+console.log(wholeNumber);
+console.log(typeof(wholeNumber));
+console.log(decimalNumber);
+console.log(typeof(decimalNumber));
+console.log(negativeNumber);
+console.log(typeof(negativeNumber));
+console.log(negativeDecimalNumber);
+console.log(typeof(negativeDecimalNumber));
